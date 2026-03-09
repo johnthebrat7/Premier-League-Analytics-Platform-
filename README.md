@@ -91,7 +91,7 @@ spring.jpa.hibernate.ddl-auto=update
 2. Build and Run
 
 # Clone the repository
-git clone https://github.com/your-username/premier-zone-api.git
+git clone https://github.com/johnthebrat7/Premier-League-Analytics-Platform-.git
 
 # Navigate to project directory
 cd premier-zone-api
