@@ -47,9 +47,13 @@ DELETE	/api/v1/player/{name}	Remove a player record by name
 Create a PostgreSQL database and update the src/main/resources/application.properties file:
 
 Properties
+
 spring.datasource.url=jdbc:postgresql://localhost:5432/your_db_name
+
 spring.datasource.username=your_username
+
 spring.datasource.password=your_password
+
 spring.jpa.hibernate.ddl-auto=update
 
 2. Build and Run
