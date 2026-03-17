@@ -1,9 +1,9 @@
-A robust, enterprise-standard backend system built with Java 21 and Spring Boot 3.3.1. This project provides a comprehensive RESTful API for managing and querying English Premier League player statistics, utilizing a highly scalable Controller-Service-Repository architecture.
+A robust, enterprise-standard backend system built with Java 17 and Spring Boot . This project provides a comprehensive RESTful API for managing and querying English Premier League player statistics, utilizing a highly scalable Controller-Service-Repository architecture.
 
 🚀 Technical Stack
 
 
-Language: Java 21 (LTS)
+Language: Java 17
 
 Framework: Spring Boot 
 
@@ -38,7 +38,7 @@ Scalable API Design: Clean, versioned API paths (/api/v1/player) following REST 
 
 Prerequisites
 
-Java 21 JDK
+Java 17 JDK
 
 
 Maven 3.x
